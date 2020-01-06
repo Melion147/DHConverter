@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Calibri" , sans-serif;
+}
+body{
+  background-color: #c6c6c6c6;
+  font-weight: 400;
+}
+#hours {
+  position: relative;
+  top: 2vh;
+}
+.box{
+  background-color: grey;
+  width: 20vw;
+  height: 35vh;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 9px 9px 2px 2px;
+  border: 1px solid whitesmoke;
+}
+
+.input1{
+  width: 90%;
+  left: 5%;
+  position: relative;
+  height: 4vh;
+  border-radius: 40px;
+  text-align: center;
+  border: none;
+  outline: none;
+}
+.input2 {
+  position: relative;
+  margin-top: 50px;
+  width: 90%;
+  left: 5%;
+
+  height: 4vh;
+  border-radius: 40px;
+  text-align: center;
+  border: none;
+  outline: none;
+}
+.input3 {
+  position: relative;
+  margin-top: 25px;
+  width: 90%;
+  left: 5%;
+
+  height: 4vh;
+  border-radius: 40px;
+  text-align: center;
+  border: none;
+  outline: none;
+
+}
+
+
+ .input11{
+   position: absolute;
+   margin-top: 40%;
+   width: 90%;
+   left: 5%;
+   height: 4vh;
+   border-radius: 40px;
+   text-align: center;
+   border: none;
+   outline: none;
+ }
+ .input22{
+   width: 90%;
+   left: 5%;
+   top: 5%;
+   position: relative;
+   height: 4vh;
+   border-radius: 40px;
+   text-align: center;
+   border: none;
+   outline: none;
+ }
+ .input33{
+   width: 90%;
+   left: 5%;
+   margin-top: 7%;
+   position: relative;
+   height: 4vh;
+   border-radius: 40px;
+   text-align: center;
+   border: none;
+   outline: none;
+ }
+
+.btn{
+  position: absolute;
+  top: 50px;
+  margin-top: 5%;
+}
+
+.head{
+  background-color: grey;
+  border-bottom: 2px solid whitesmoke;
+  border-radius: 9px 9px 0px 0px;
+  text-align: center;
+  color: white;
+}
+.content{
+  padding-top: 15px;
+  align-content: center;
+}
